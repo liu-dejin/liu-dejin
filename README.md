@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Visitor Count](https://profile-counter.glitch.me/liu-dejin/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liudejin)](https://github.com/liu-dejin/github-readme-stats)
+![liu-dejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-dejin&show_icons=true&theme=tokyonight)
