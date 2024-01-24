@@ -1,20 +1,37 @@
-### Hi there 👋
+<h2>🙏🏻Hi , I'm 金花(liu-dejin) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<!--
-**liu-dejin/liu-dejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/u/112742293?s=400&u=e7ed7bc75ca5e986750bbc52b0ee100cec7a8139&v=4" width="230" border-radius="50%">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Be watching me
 
 ![Visitor Count](https://profile-counter.glitch.me/liu-dejin/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liudejin)](https://github.com/liu-dejin/github-readme-stats)
-![liu-dejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-dejin&show_icons=true&theme=tokyonight)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+#!/usr/bin/JavaScript
+# -*- coding: utf-8 -*-
+const jinhua = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Java", "Python", "C"],
+  askMeAbout: ["web", "blog", "Yun", "DevOps"],
+  technologies: {
+    backEnd: {
+      Java: ["Spring", "Spring Cloud", "MyBatis"],
+    },
+    devOps: ["Alibaba Cloud", "Docker🐳", "Linux", "Nginx"],
+    databases: ["MySql", "Mongo", "sqlite"],
+    misc: ["DevEco Studio", "Socket.IO", "selenium", "Spider"]
+  },
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+  funFact: "Bad programmers worry about the code. Good programmers worry about data stru"
+}
+```
+
+### 👀Counter
+
+![Moe-Counter](https://moe-counter.glitch.me/get/@jinhua/?theme=gelbooru)
+
+**🤷‍♂️在自己的时区里面，干着自己热爱的事！:)**
+
