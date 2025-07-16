@@ -13,12 +13,12 @@
 #!/usr/bin/JavaScript
 # -*- coding: utf-8 -*-
 const jinhua = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Java", "Python", "C"],
+  pronouns: "He" 
+  code: ["Typescript", "Java", "Python", "C"],
   askMeAbout: ["web", "blog", "Yun", "DevOps"],
   technologies: {
     backEnd: {
-      Java: ["Spring", "Spring Cloud", "MyBatis"],
+      Node: ["Express", "egg", "MongoDB"],
     },
     devOps: ["Alibaba Cloud", "Docker🐳", "Linux", "Nginx"],
     databases: ["MySql", "Mongo", "sqlite"],
@@ -34,4 +34,3 @@ const jinhua = {
 ![Moe-Counter](https://moe-counter.glitch.me/get/@jinhua/?theme=gelbooru)
 
 **🤷‍♂️在自己的时区里面，干着自己热爱的事！:)**
-
