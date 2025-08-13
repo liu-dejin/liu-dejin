@@ -2,12 +2,11 @@
 
 <img src="https://avatars.githubusercontent.com/u/112742293?s=400&u=e7ed7bc75ca5e986750bbc52b0ee100cec7a8139&v=4" width="230" border-radius="50%">
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Be watching me
 
-![Visitor Count](https://profile-counter.glitch.me/liu-dejin/count.svg)
+  ## 📈 GitHub 数据
 
+  [![liu-dejin的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=liu-dejin&show_icons=true&theme=radical)](https://github.com/liu-dejin)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 #!/usr/bin/JavaScript
